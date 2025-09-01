@@ -19,8 +19,8 @@ Export to CSV.
 Add error handling and validation.
 Final testing & documentation.
 
-![screenshot1](assets/screenshot1.jpg)
-![screenshot2](assets/screenshot2.jpg)  
+![screenshot1](downloads/screenshot1.jpg)
+![screenshot2](downloads/screenshot2.jpg)  
 ![screenshot3](assets/screenshot3.jpg)
 ![screenshot4](assets/screenshot4.jpg)
 ![screenshot5](assets/screenshot5.jpg)
